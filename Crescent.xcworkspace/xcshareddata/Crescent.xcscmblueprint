@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "cd6d6082-16f6-460f-8d0b-3cfe05f80b2f",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cd6d6082-16f6-460f-8d0b-3cfe05f80b2f" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "cd6d6082-16f6-460f-8d0b-3cfe05f80b2f" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "25405E71-435E-4ADA-8514-04E35EF47FDB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "cd6d6082-16f6-460f-8d0b-3cfe05f80b2f" : "mobile\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Crescent",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Crescent\/ios\/Crescent.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/213.227.226.248:3990\/svn\/mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cd6d6082-16f6-460f-8d0b-3cfe05f80b2f"
+    }
+  ]
+}
